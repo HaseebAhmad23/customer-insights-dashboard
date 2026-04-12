@@ -7,7 +7,7 @@
 ![Django](https://img.shields.io/badge/Django-Backend-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Programming%20Language-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/DRF-API-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-API-F54927?style=for-the-badge&logo=django&logoColor=white)
 
 A mini SaaS analytics tool — think simplified Mixpanel/Amplitude — built with latest frontend and backend frameworkd. 
 
