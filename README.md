@@ -4,10 +4,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-Language-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Recharts](https://img.shields.io/badge/Recharts-Data%20Visualization-FF7300?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-UI%20Framework-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Django](https://img.shields.io/badge/Django-Backend-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/Django-Backend-F52765?style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Programming%20Language-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Containerization-27F5D6?style=for-the-badge&logo=docker&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/DRF-API-F54927?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-API-C227F5?style=for-the-badge&logo=django&logoColor=white)
 
 A mini SaaS analytics tool — think simplified Mixpanel/Amplitude — built with latest frontend and backend frameworkd. 
 
