@@ -89,3 +89,7 @@ Active   → score ≥ 10
 Medium   → score ≥ 3
 At Risk  → score < 3
 ```
+
+## Author
+
+Haseeb Ahmad (Fullstack Developer)
