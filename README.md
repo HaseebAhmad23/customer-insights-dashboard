@@ -9,7 +9,7 @@
 ![Docker](https://img.shields.io/badge/Docker-Containerization-27F5D6?style=for-the-badge&logo=docker&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/DRF-API-C227F5?style=for-the-badge&logo=django&logoColor=white)
 
-A mini SaaS analytics tool — think simplified Mixpanel/Amplitude — built with latest frontend and backend frameworkd. 
+A mini SaaS analytics tool — think simplified Mixpanel/Amplitude. It tracks user signups, feature usage, and engagement behaviour, then segments users into Active, Medium, and At Risk categories. The backend is Django REST Framework with a custom engagement scoring engine, and the frontend is React with Recharts for live data visualisation. The whole stack is Dockerised and can be run with a single command. 
 
 ## Features
 
