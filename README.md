@@ -90,6 +90,26 @@ Medium   → score ≥ 3
 At Risk  → score < 3
 ```
 
+## Application Preview
+
+### 📊 Dashboard
+Real-time analytics of user activity
+<p align="center">
+  <img src="assets/images/dashboard.png" width="800"/>
+</p>
+
+### 👥 User Segments
+Engagement-based segmentation of all users
+<p align="center">
+  <img src="assets/images/user_segments.png" width="800"/>
+</p>
+
+### ⚙️ Feature Usage
+Top features by number of uses and their ranking
+<p align="center">
+  <img src="assets/images/feature_usage.png" width="800"/>
+</p>
+
 ## Author
 
 Haseeb Ahmad (Fullstack Developer)
